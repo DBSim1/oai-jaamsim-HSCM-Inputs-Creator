@@ -1,0 +1,7 @@
+user='matthew.clarke@fortescue.com'
+account='wn74261.ap-southeast-2'
+warehouse='WH_EDW_SELFSERVICE'
+authenticator='externalbrowser'
+role='EDW_MATTHEW.CLARKE'
+database='AA_OPERATIONS_MANAGEMENT'
+schema='SELFSERVICE'
